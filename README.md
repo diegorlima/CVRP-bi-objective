@@ -6,4 +6,7 @@ Results of my doctoral thesis
 **Detalhes e links das tabelas**
 
 **Detalhes e links das imagens**
-*Dividido por critério de agrupamento*
+
+- *DMin*
+- *MSC*
+- *MSSC*
