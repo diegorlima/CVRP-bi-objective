@@ -16,7 +16,7 @@ Results of my doctoral thesis
 - *DMin*
 - *MSC*
 - *MSSC*
-  Grupo A: https://github.com/diegorlima/CVRP-bi-objective/tree/main/MSSC/Imagens_grupo_A
-  Grupo B
-  Grupo E
-  Grupo P
+  - Grupo A: https://github.com/diegorlima/CVRP-bi-objective/tree/main/MSSC/Imagens_grupo_A
+  - Grupo B
+  - Grupo E
+  - Grupo P
