@@ -1,22 +1,26 @@
 # CVRP-bi-objective
-Results of my doctoral thesis
+Results and images
 
-**Descrição do trabalho**
+**Pareto Frontier for all instances**
 
-**Detalhes e links das tabelas**
+- link here
 
-- Resultados com todas as fronteiras para todos critérios e grupos
-- Hipervolumes
-- Médias de custo
-- Médias das métricas
-- Quantidade de solução nas fronteiras
-
-**Detalhes e links das imagens**
+**Images of the Pareto Frontier for all instances**
 
 - *DMin*
+  - Group A: link here
+  - Group B: link here
+  - Group E: link here
+  - Group P: link here
+  
 - *MSC*
+  - Group A: link here
+  - Group B: link here
+  - Group E: link here
+  - Group P: link here
+
 - *MSSC*
-  - Grupo A: https://github.com/diegorlima/CVRP-bi-objective/tree/main/MSSC/Imagens_grupo_A
-  - Grupo B
-  - Grupo E
-  - Grupo P
+  - Group A: link here
+  - Group B: link here
+  - Group E: link here
+  - Group P: link here
