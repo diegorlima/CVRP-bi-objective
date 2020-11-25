@@ -3,7 +3,7 @@ Results and images
 
 **Pareto Frontier for all instances**
 
-- link here
+- https://github.com/diegorlima/CVRP-bi-objective/blob/main/Pareto_Frontier_Metrics_Groups_A_B_E_P.ods
 
 **Images of the Pareto Frontier for all instances**
 
