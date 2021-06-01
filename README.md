@@ -1,9 +1,10 @@
 # CVRP-bi-objective
 Results and images
 
-**Pareto Frontier for all instances**
+**Pareto Frontier and Metrics for all instances**
 
-- https://github.com/diegorlima/CVRP-bi-objective/blob/main/Pareto_Frontier_Metrics_Groups_A_B_E_P.ods
+- https://github.com/diegorlima/CVRP-bi-objective/blob/main/Pareto_Frontier_Metrics_Groups_A_B_E_P.pdf
+- https://github.com/diegorlima/CVRP-bi-objective/blob/main/Pareto_Frontier_Metrics_DC.pdf
 
 **Images of the Pareto Frontier for all instances**
 
