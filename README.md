@@ -6,7 +6,7 @@ Results and images
 - https://github.com/diegorlima/CVRP-bi-objective/blob/main/Pareto_Frontier_Metrics_Groups_A_B_E_P.pdf
 - https://github.com/diegorlima/CVRP-bi-objective/blob/main/Pareto_Frontier_Metrics_DC.pdf
 
-**Images of the Pareto Frontier for all instances**
+**Images of all solutions for all instances, divided by cluster criteria**
 
 - *DMin*
   - Group A: https://github.com/diegorlima/CVRP-bi-objective/tree/main/DMin/Group_A
